@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: white !important;
+}
+.header {
+    padding: 1rem;
+}
+.container {
+    padding-bottom: 0;
+}
+.info-card {
+    padding: 10px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #2b3035;
+}
+i {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    float: right;
+}
+.live {
+    color: red;
+}
+#title {
+    overflow: hidden;
+}
